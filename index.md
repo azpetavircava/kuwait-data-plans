@@ -71,3 +71,10 @@ layout: default
 
 　　希望这份指南能帮你扫清迷雾。在科威特享受畅通无阻的网络吧！
 　　<<<END_ARTICLE
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Kuwait SIM 卡购买与激活指南](https://faciylike.github.io/kuwait-sim-guides)
